@@ -1,0 +1,12 @@
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.deps.json
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.dll
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\bin\Debug\net6.0\ref\Infrastructure.Shared.dll
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.pdb
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.dll
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\obj\Debug\net6.0\ref\Infrastructure.Shared.dll
+C:\Users\admin\OneDrive\Projects\D2\BlazorCleanArchitecture\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.pdb
